@@ -1,0 +1,3 @@
+[submodule "AY2019-2020/atc"]
+	path = AY2019-2020/atc
+	url = https://github.com/andyngchinkuan/atc-fyp.git
